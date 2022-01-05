@@ -1,0 +1,5 @@
+Plan ID: 1231, Workout Type: Muscle, Instructor ID: 4456, Workout Time: 8, Session Time: 2Hrs
+Plan ID: 4456, Workout Type: Yoga, Instructor ID: 3345, Workout Time: 10, Session Time: 1.5Hrs
+Plan ID: 4567, Workout Type: Body, Instructor ID: 5569, Workout Time: 1, Session Time: 1hr
+Plan ID: 4567, Workout Type: Muscle, Instructor ID: 7894, Workout Time: 8, Session Time: 1hr
+Plan ID: 456, Workout Type: Legs, Instructor ID: 234, Workout Time: 2, Session Time: 1
